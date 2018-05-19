@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+
+body {
+    color: purple;
+    background-color: gold;
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/13/22/12/letter-3317793_1280.png");
+    width: 300 px;
+    height: 300 px;
+}
+
+
+
